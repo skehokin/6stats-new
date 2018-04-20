@@ -1,0 +1,10 @@
+body {
+	font-family: "Raleway", sans-serif;
+}
+
+#stato {
+	text-transform: capitalize;
+}
+#desc {
+	max-width: 500px;
+}
